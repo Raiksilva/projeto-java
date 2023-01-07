@@ -1,8 +1,7 @@
-package edu.raik.anatomia;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class BoletimEstutantil {
+public class Boletim{
     public static void main (String [] args){
         int mediaAv1;
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
